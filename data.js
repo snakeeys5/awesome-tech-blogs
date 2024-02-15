@@ -4625,3 +4625,10 @@ module.exports = [
     tags: ['Ruby', 'JavaScript', 'Code Quality', 'Tech Debt', 'Refactoring', 'Code Health', 'Code Smells']
   },
 ];
+{
+    name: 'KnowTechie',
+    description: 'Tech news for people who like tech, but live outside the bubble',
+    twitter: '@kevin_raposo',
+    url: 'https://knowtechie.com',
+    tags: ['Wordpress', 'AI' 'Journalism', 'JavaScript'],
+}

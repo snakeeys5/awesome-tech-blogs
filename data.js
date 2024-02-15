@@ -4162,6 +4162,13 @@ module.exports = [
     tags: ["Windows", "Mac", "Android", "IOS", "apps", "software"],
   },
   {
+    name: 'KnowTechie',
+    description: 'Tech news for people who like tech, but live outside the bubble.',
+    url: 'https://knowtechie.com',
+    twitter: '@knowtechie',
+    tags: ['Journalism', 'AI', 'Wordpress'],
+}
+  {
     name: "Raj KB",
     description:
       "Technical Project Manager ~ PHP & Magento Certified ~ <3 Symfony, React, Node, PWA/GraphQL, Web3 ~ DBA ~ DevOps ~ Blogger ~ Indie Hacker",
